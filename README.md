@@ -1,25 +1,3 @@
-# Prediction Using Unsupervised ML
-
-This repository contains code for predicting clusters in the Iris dataset using unsupervised machine learning techniques. The code utilizes the KMeans algorithm for clustering and visualizes the results.
-
-## Getting Started
-
-To run the code, you need to have the following libraries installed:
-
-- numpy
-- pandas
-- sklearn
-- matplotlib
-- seaborn
-
-You can install these libraries using pip:
-
-```bash
-pip install numpy pandas sklearn matplotlib seaborn
-```
-
-````
-
 ## Code
 
 The code is organized as follows:
@@ -64,4 +42,3 @@ This code successfully applies unsupervised machine learning techniques to predi
 For more details, refer to the code and comments in the source files.
 And for detailed explainantion you can refer to my Youtube Link
 [Youtube Link](https://youtu.be/FD6upwBvth0)
-````
